@@ -41,10 +41,12 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 ### SERVER OUTPUT:
-![image](https://github.com/pradeepasri26/Echoserver/assets/131433142/a89b0d25-0b41-4b95-9eeb-9c7f6ed92533)
+![image](https://github.com/dineshdk154/Echoserver/assets/104413084/4e60cba7-9af1-490a-b0fb-aed4be0846df)
+
 
 ### CLIENT SIDE:
-![image](https://github.com/pradeepasri26/Echoserver/assets/131433142/802600e0-45fe-4a33-9388-e123fbdc7087)
+![Screenshot 2024-03-01 105600](https://github.com/dineshdk154/Echoserver/assets/104413084/8395c26b-1520-49df-8a12-a6152e975502)
+
 
 
 ## RESULT:
